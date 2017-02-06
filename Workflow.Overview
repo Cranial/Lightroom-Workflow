@@ -1,0 +1,78 @@
+My Lightroom Workflow
+
+1. Import
+    Copy from memory card to ..\Working\[yyyymmdd]-[TitleOfJob]-[Type]\RAW\Card01..99\
+    (ex. ..\Working\20130302-FarrahJamesWedding-Event\RAW\Card01\IMG_0034.CR2)
+
+2. Import folder into Working Catalog of Lightroom
+
+3. Build 1:1 previews
+
+4. Apply generic Keywords
+
+5. Apply Camera Profile
+
+6. Apply Copyright info
+
+7. Add IPCT information
+
+8. Category...
+
+9. Adjust Capture Time
+    (if more than one camera was used or wrong timecode/zone)
+
+10. Select images
+
+11. Positive Selection
+    (pick 'P' images that you like, 1 to 3 stars for Favorites)
+
+12. Use Survey Mode
+    ('N' - Select 4-6 images and compare - The more, the faster)
+
+13. Distraction Free!
+    (No toolbars 'T', No side panels 'Tab')
+
+14. Go with gut-feeling, but check for sharpness ('Z')
+
+15. Organise images
+
+16. Move all Pick's to Selects folder, under RAW folder (..\RAW\Selects)
+
+17. Move all Favorites to Favorites folder, under RAW folder (..\RAW\Favorites)
+
+18. Keyword
+    All Favorites and Selects should be keyworded!
+    'CTRL+K' jumps to Keyword field in Library module
+
+19. Use Spraycan to tag images with Keywords
+
+20. Adjust Images
+
+21. Use AutoSync for similar images
+
+22. Process Favorites first, Selects second
+
+23. User Presets whenever possible!
+
+24. Re-organise images
+
+25. Rename images
+
+26. Process in Develop Module
+
+27. Photoshop edits
+
+28. Review images that were not picked
+
+29. Delete crap 'X'
+
+30. Pick misses 'P' (goto 5. and start over)
+
+31. Export Images
+
+32. Convert Non-Selects to DNG
+
+33. Remove/Erase rejects
+'CTRL+Backspace'
+
+34. Export JPG's
